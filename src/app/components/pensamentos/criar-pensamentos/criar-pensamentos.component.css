@@ -58,7 +58,6 @@
 .modelos {
   display: flex;
   gap: 2.5rem;
-  border: 1px solid red;
 }
 
 .modelo {
@@ -93,9 +92,9 @@
   box-shadow: 8px 8px 0px #84EEC1;
 }
 
-input[type='radio'] {
+/* input[type='radio'] {
   display: none;
-}
+} */
 
 .radio-modelo label {
   display: flex;
@@ -126,6 +125,6 @@ span {
   border-radius: 50%;
 }
 
-input[type='radio']:checked+.custom-radio {
+input[type='radio']:checked+ .custom-radio {
   border-color: #154580;
 }
