@@ -1,4 +1,4 @@
-<section class="container criar-pensamentos ff-inter">
+<section class="container editar-pensamentos ff-inter">
   <header class="header">
     <h2>Adicione um <br>pensamento novo:</h2>
   </header>
@@ -80,6 +80,7 @@
       <div class="radio-modelo">
         <label for="modelo3">
           <input
+            class="input"
             type="radio"
             name="modelo-card"
             value="modelo3"
@@ -92,8 +93,8 @@
           <span>Modelo 3</span>
         </label>
         Prévia:
-        <div class="modelo modelo2 ff-roboto-mono">
-          <img src="../../../../assets/Imagens/modelo3.png" alt="Aspas verde">
+        <div class="modelo modelo3 ff-roboto-mono">
+          <img src="../../../../assets/Imagens/modelo3.png" alt="Aspas azuais">
           <p class="conteudo">
             {{ pensamento.conteudo }}
           </p>
@@ -102,12 +103,11 @@
           </p>
         </div>
       </div>
-
     </div>
 
     <div class="acoes">
       <button
-        (click)="criarPensamento()"
+        (click)="editarPensamento()"
         class="botao"
       >
         Salvar
@@ -121,3 +121,4 @@
     </div>
   </form>
 </section>
+
