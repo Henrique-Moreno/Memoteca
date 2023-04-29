@@ -3,6 +3,16 @@
 
 <h2> Projeto Memoteca é página para guardar suas melhores ideais, trechos de musicas, citações de livro entre outras coisas... 💭<h2>
 
+![Captura de Tela (105)](https://user-images.githubusercontent.com/88099935/235320975-94ed2fd0-d938-446e-9714-2fbc0b713ce4.png)
+
+<h3> Você consegue criar pensamento, editar pensamentos. 📝 </h3>
+
+![Captura de Tela (104)](https://user-images.githubusercontent.com/88099935/235320542-a3757e22-d681-4cd1-85d6-29b9c286dcd0.png)
+
+<h3> Excluir pensamentos. </h3>
+
+![Captura de Tela (10378)](https://user-images.githubusercontent.com/88099935/235320790-daf92da3-cdf5-4054-b64d-647f688f19a3.png)
+
 > Projeto Memoteca foi desenvolvido em Angular! Porquer Angular ?
 
 > Angular é conhecido por sua performance e eficiência, especialmente em projetos maiores e mais complexos. O Angular utiliza uma técnica chamada "change detection" que ajuda a detectar mudanças no estado da aplicação e atualizar apenas as partes necessárias.
@@ -45,6 +55,32 @@ npm i ou npm install
 ``
 ng serve ou ng serve --open
 ``
+<h4> Para ter uma experiência completa do Memoteca acesse pasta backend </h4>
+
+<h5> E instale as dependências necessárias executando o comando abaixo </h5>
+
+``
+npm install
+``
+
+ou
+
+``
+yarn install
+``
+
+<h4> Em seguida executando o projeto </h4>
+
+``
+npm start
+``
+
+ou
+
+``
+yarn start
+``
+
 <p>Se tudo ocorrer corretamente, você deverá ver a aplicação rodando em seu navegador. Qualquer alteração feita nos arquivos do projeto deverá recarregar automaticamente a página. </p>
 
 <h3>Conclusão </h3>
