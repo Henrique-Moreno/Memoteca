@@ -3,7 +3,13 @@
 
 <h2> Projeto Memoteca é página para guardar suas melhores ideais, trechos de musicas, citações de livro entre outras coisas... 💭<h2>
 
-> Projeto foi desenvolvido em Angular
+> Projeto Memoteca foi desenvolvido em Angular! Porquer Angular ?
+
+> Angular é conhecido por sua performance e eficiência, especialmente em projetos maiores e mais complexos. O Angular utiliza uma técnica chamada "change detection" que ajuda a detectar mudanças no estado da aplicação e atualizar apenas as partes necessárias.
+
+> Ferramentas: o Angular vem com um conjunto de ferramentas poderosas, como o Angular CLI, que ajuda a gerenciar a criação, o desenvolvimento e a compilação do projeto. Além disso, o Angular tem uma forte integração com outras ferramentas populares, como o TypeScript e o RxJS.
+
+> Testabilidade: o Angular é projetado para ser testável, o que significa que é mais fácil escrever e executar testes automatizados para garantir a qualidade do código e a estabilidade da aplicação. Isso pode economizar tempo e esforço durante o desenvolvimento e ajudar a evitar problemas no futuro.
 
 <h3>Como executar o projeto na sua máquina</h3>
 
