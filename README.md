@@ -1,15 +1,15 @@
 # Memoteca
 ![Captura de Tela (103)](https://user-images.githubusercontent.com/88099935/235311827-ef060f57-7cbc-47a9-9866-831acb1a1244.png)
 
-<h2> Projeto Memoteca é página para guardar suas melhores ideais, trechos de musicas, citações de livro entre outras coisas... 💭<h2>
+<h2> Projeto memoteca é a página para guardar suas melhores ideias trechos de músicas, citações de livros entre outros. 💭<h2>
 
 ![Captura de Tela (105)](https://user-images.githubusercontent.com/88099935/235320975-94ed2fd0-d938-446e-9714-2fbc0b713ce4.png)
 
-<h3> Você consegue criar pensamento, editar pensamentos. 📝 </h3>
+<h3> Você consegue criar pensamentos e editá-los. 📝 </h3>
 
 ![Captura de Tela (104)](https://user-images.githubusercontent.com/88099935/235320542-a3757e22-d681-4cd1-85d6-29b9c286dcd0.png)
 
-<h3> Excluir pensamentos. </h3>
+<h3> Excluir pensamentos. 🗑️</h3>
 
 ![Captura de Tela (10378)](https://user-images.githubusercontent.com/88099935/235320790-daf92da3-cdf5-4054-b64d-647f688f19a3.png)
 
