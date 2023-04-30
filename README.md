@@ -55,7 +55,12 @@ npm i ou npm install
 ``
 ng serve ou ng serve --open
 ``
-<h4> Para ter uma experiência completa do Memoteca acesse pasta backend </h4>
+
+<p>Se tudo ocorrer corretamente, você deverá ver a aplicação rodando em seu navegador. Qualquer alteração feita nos arquivos do projeto deverá recarregar automaticamente a página. </p>
+
+<hr>
+
+<h2> Para ter uma experiência completa do Memoteca acesse pasta backend </h2>
 
 <h5> E instale as dependências necessárias executando o comando abaixo </h5>
 
@@ -80,8 +85,6 @@ ou
 ``
 yarn start
 ``
-
-<p>Se tudo ocorrer corretamente, você deverá ver a aplicação rodando em seu navegador. Qualquer alteração feita nos arquivos do projeto deverá recarregar automaticamente a página. </p>
 
 <h3>Conclusão </h3>
 
